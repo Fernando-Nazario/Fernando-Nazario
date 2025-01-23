@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Me virando desde 2023<br>📚 Estou aprendendo REACT, JAVA E C++<br>🎯 Meta: Me tornar um Desenvolvedor FullStack</p>
+<p align="left">✨ Me virando desde 2023<br>📚 Estou aprendendo REACT, JAVA e C++<br>🎯 Meta: Me tornar um Desenvolvedor FullStack</p>
 
 ###
 
