@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Me virando desde 2023<br>📚 Estou aprendendo KOTLIN, DESENVOLVIMENTO ANDROID E REACT<br>🎯 Meta: Me tornar um Desenvolvedor FullStack</p>
+<p align="left">✨ Me virando desde 2023<br>📚 Estou aprendendo Kotlin, Desenvolvimento Android e React<br>🎯 Meta: Me tornar um Desenvolvedor FullStack</p>
 
 ###
 
